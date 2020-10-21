@@ -6,4 +6,6 @@
  
 # 4 files 4 different exercises
 In codefiles folder there are 4 different files – each is the final code for separate exercise
+Coyota.cpp, family.cpp, CoyotaCustomerMap2019.cpp – focus on OOP - inheritance, polymorphism, abstract classes, virtual funcitons and some pointers
+template_exception.cpp – focus exceptions, circular buffer, templates and exceptions
 
